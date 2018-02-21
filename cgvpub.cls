@@ -703,20 +703,6 @@
 \fi
 
 \cleardoublestandardpage
-%Selbständigkeitserklärung
-     \chapter*{Selbstst\"{a}ndigkeitserkl\"{a}rung}
-
-    Hiermit erkl\"{a}re ich, dass ich die von mir am heutigen Tag dem Pr\"{u}fungsausschuss der Fakult\"{a}t \@faculty~eingereichte Arbeit zum Thema:
-     \begin{center}
-     \textit{\@title} 
-     \end{center}
-     
-     vollkommen selbstst\"{a}ndig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt sowie Zitate kenntlich gemacht habe.
-
-    Dresden, den \@date\\[3cm]
-    \@author
-
-\cleardoublestandardpage
 %Zusammenfassung
 \ifx\@empty\@isdiploma
 \else
